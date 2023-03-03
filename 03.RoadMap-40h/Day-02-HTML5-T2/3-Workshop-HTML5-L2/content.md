@@ -1,8 +1,7 @@
 HTML là gì? Tìm hiểu về ngôn ngữ HTML từ A đến Z
 Năm 1991, trang web đầu tiên trên internet được hình thành bởi Tim Berners Lee và World Wide Web đã ra đời. Tim Berners Lee đã sử dụng HTML để viết nên các trang web và điều này giúp ông có thể chia sẻ dữ liệu với các nhà khoa học nội bộ. Bài viết này chúng ta sẽ tìm hiểu khái niệm HTML là gì và toàn bộ các nội dung liên quan đến HTML.
 
-HTML là gì?
-HTML là từ viết tắt của Hypertext Markup Language, là sự kết hợp của Hypertext và Markup, hay còn được gọi là ngôn ngữ siêu văn bản. HTML có chức năng giúp người dùng xây dựng và cấu trúc các phần trong trang web hoặc ứng dụng, thường được sử dụng trong phân chia các đoạn văn, heading, link, blockquotes,…
+HTML làgì?HTML là từ viết tắt của Hypertext Markup Language, là sự kết hợp của Hypertext và Markup, hay còn được gọi là ngôn ngữ siêu văn bản. HTML có chức năng giúp người dùng xây dựng và cấu trúc các phần trong trang web hoặc ứng dụng, thường được sử dụng trong phân chia các đoạn văn, heading, link, blockquotes,…
 
 ghi chu
 
@@ -32,12 +31,12 @@ Trình diễn, tạo các hiệu ứng trên trang WEB với CSS2, CSS3
 Xử lý các sự kiện, tương tác người dùng trên trang WEB với JavaScript
 Tăng tốc độ xử lý các sự kiện trên trang web với JQuery
 Thiết kế giao diện với Photoshop
-Cắt giao diện từ ảnh thiết kế thành HTML, CSS
+ắt giao diện từ ảnh thiết kế thành HTML, CSSC
 Thiết kế giao diện Web: (Bài tập theo nhóm)
 Tạo trang tin tức
 Tạo trang giới thiệu sản phẩm và bán sản phẩm trực tuyến
 Trung Tâm Đào Tạo Lập Trình Viên Softech Aptech
 38 Yên Bái, Quận Hải Châu, Thành Phố Đà Nẵng (Tòa nhà VNPT)
 Điện thoại: 0236.3.779.779
-Email: tuyensinh@softech.vn
+Điện thoại: 0236.3.779.779
 Fax: a 0236.3.779.555

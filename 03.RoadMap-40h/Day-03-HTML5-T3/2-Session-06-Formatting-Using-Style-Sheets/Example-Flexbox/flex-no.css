@@ -17,7 +17,7 @@ body {
 .nav {
     min-height: 42px;
     background-color: #EF5122;
-    display: flex;
+    display:flex;
     justify-content: space-between;
 }
 
@@ -35,7 +35,7 @@ body {
 
 /* Form layout */
 .form-container {
-    max-width: 720px;
+    /* max-width: 720px; */
     padding: 32px;
     margin: 36px auto 0 auto;
     background-color: #fff;

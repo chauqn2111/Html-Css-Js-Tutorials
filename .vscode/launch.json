@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open Animation.html",
+            "file": "d:\\html-git\\Html-Css-Js-Tutorials\\03.RoadMap-40h\\Day-04-HTML5-T4\\1-Session-07-Displaying-Graphics-and-CSS3-Animation\\Example-Animation\\Animation.html"
+        }
+    ]
+}
