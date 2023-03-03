@@ -1,31 +1,28 @@
-# Create Ecommerce Website
+# Thực hành bài học tại Lab
 
-Intro result Project
+## Task 1: Nhúng một video Youtube vào website
 
-## Step 1 - init Project DONE
+- Sử dụng thẻ article để thể hiện nội dung mô tả một bài viết về sản phẩm
+- Lấy video Youtube nào đó chèn vào phần nội dung mô tả trên
 
-> 1. structure folder
-> 2. css global, reset css
-> 3. layout common
+## Task 3:Thực hành lại kiến thức Javascript
 
+- Khai báo biến:
 
-## Step 2 - Code Bootcamp Session 5-6 DONE
+- Có 2 biến a và b
 
-- Header Top Block
-- Footer Block
+- Gán giá trị cho biến đó
+- Xuất ra màn hình / console giá trị của biến
+- Thay đổi giá trị của biến a, b thành giá trị khác
+- Xuất ra màn hình / console giá trị của biến
 
-## Step 3 - Code Bootcamp Session 7-8 DONE
+## Task 4
 
-- Header-Middle, Header Bottom
-- Index Page: Product List, Articles List
+Có một sinh viên tên là Nguyễn Văn A, Tuổi là 20, Giới tính: True là Nam, False Nữ.
 
-## Step 4 - Code Bootcamp Session 9-10 DONE
+- Các bạn tạo biến để thể hiện thông tin trên.
+- Xuất ra màn hình / console giá trị của biến
 
-- Categories Page
-- Product Details Page
+## Task 5: Sử dụng Owl.Carousel
 
-
-## Step 5 - Code Bootcamp Session 11-12
-
-- Categories Post
-- Post Details Page
+Tạo Slide hình ảnh, sản phẩm đưa vào hiển thị ở phần product photo

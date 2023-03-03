@@ -1,25 +1,26 @@
-# Create Ecommerce Website
+# Workshop
 
-Intro result Project
+Sử dụng lại bài tập basic-project ở phần Workshop ở trên mục 03.RoadMap-40h\Day-04-HTML5-T4\3-Workshop-HTML5-L4.
 
-## Step 1 - init Project
+Sau khi làm nối tiếp các bài tập Homework vào
 
-> 1. structure folder
-> 2. css global, reset css
-> 3. layout common
+## Task 1: 
 
+Tạo một bảng với giao diện như hình dưới đây, để làm bảng thông số  cho sản phẩm.
 
-## Step 2 - Code Bootcamp Session 5-6
+![table](table-params.png)
 
-- Header Top Block
-- Footer Block
+đặt vào phần Sidebar
 
-## Step 3 - Code Bootcamp Session 7-8
+## Task 2
 
-- Header-Middle, Header Bottom
-- Index Page: Product List, Articles List
+Tạo form bình luận như hình dưới đây ==> Đưa form này vào cuối section tag trong basic-project
 
-## Step 4 - Code Bootcamp Session 9-10
+![](form-comment.png)
 
-- Product Details Page
-- Checkout Page
+- Nội dung đánh giá tối thiểu 8 kí tự, yêu cầu nhập
+- Tên bắt buộc nhập, tối thiểu 4 kí tự
+- Email: bắt buộc nhập và đúng định dạng email
+- Số điện thoại tùy chọn
+- Mã bảo vệ: bắt buộc nhập, tối thiểu và tối da 4 kí tự.
+
