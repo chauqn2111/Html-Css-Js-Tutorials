@@ -25,22 +25,3 @@ Phần mềm Sublime Text
 Phần mềm Micosoft Visual Code
 Một số thuật ngữ HTML thường gặp
 Trong HTML có rất nhiều thuật ngữ khác nhau cần người dùng hiểu để có thể sử dụng một các dễ dàng và thuận lợi hơn. Sau đây, chúng ta sẽ tìm hiểu 3 thuật ngữ phổ biến thường xuyên xuất hiện trong tệp HTML, chính là Elements, Tags, Attributes.
-
-Elements
-Tags
-Attributes
-Mục tiêu khóa học
-Tạo web với HTML, HTML5
-Trình diễn, tạo các hiệu ứng trên trang WEB với CSS2, CSS3
-Xử lý các sự kiện, tương tác người dùng trên trang WEB với JavaScript
-Tăng tốc độ xử lý các sự kiện trên trang web với JQuery
-Thiết kế giao diện với Photoshop
-Cắt giao diện từ ảnh thiết kế thành HTML, CSS
-Thiết kế giao diện Web: (Bài tập theo nhóm)
-Tạo trang tin tức
-Tạo trang giới thiệu sản phẩm và bán sản phẩm trực tuyến
-Trung Tâm Đào Tạo Lập Trình Viên Softech Aptech
-38 Yên Bái, Quận Hải Châu, Thành Phố Đà Nẵng (Tòa nhà VNPT)
-Điện thoại: 0236.3.779.779
-Email: tuyensinh@softech.vn
-Fax: a 0236.3.779.555
